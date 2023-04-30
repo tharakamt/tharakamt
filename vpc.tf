@@ -6,7 +6,7 @@ instance_tenancy = "default"
 tags = {
 
     Name = "demo-vpc"
-
+dd
 }
 
 }
